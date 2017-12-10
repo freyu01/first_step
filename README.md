@@ -1,1 +1,1 @@
-# first_step
+# First step records things from beginning.
